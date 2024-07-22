@@ -41,7 +41,7 @@ protobuf==4.25.3
 #psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
 #pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 pyarrow==15.0.1
-pycairo==1.26.0
+#pycairo==1.26.0
 #pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pydeck==0.8.1b0
 #Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
