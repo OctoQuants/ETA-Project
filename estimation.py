@@ -6,7 +6,7 @@ import pickle
 
 st.image("Innomatics-Logo1.jpg")
 st.title("ETA Project")
-model = pickle.load(open(r"C:\Users\dell\Streamlit_elite_21\estimator.pkl","rb"))
+model = pickle.load(open(r"estimator.pkl","rb"))
 
 start_lat = st.number_input("Enter the start latitude:",)
 start_lang = st.number_input("Enter the start longitude:")
